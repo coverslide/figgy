@@ -1,0 +1,8 @@
+{
+  "prop1": 10,
+  "prop3": "test",
+  "prop5": {
+    "nprop1": null,
+    "nprop3": false
+  }
+}
